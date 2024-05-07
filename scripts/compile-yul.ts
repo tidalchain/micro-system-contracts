@@ -16,7 +16,7 @@ async function compilerLocation(): Promise<string> {
 
   if (IS_COMPILER_PRE_RELEASE) {
     // @ts-ignore
-    const url = getZksolcUrl("https://github.com/ZKAmoeba-Micro/zksolc-prerelease", hre.config.zksolc.version);
+    const url = getZksolcUrl("https://github.com/tidalchain/zksolc-prerelease", hre.config.zksolc.version);
     salt = saltFromUrl(url);
   }
 

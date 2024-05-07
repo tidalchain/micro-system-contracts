@@ -1,7 +1,7 @@
 {
   "name": "system-contracts",
   "version": "0.1.0",
-  "repository": "git@github.com:ZKAmoeba-Micro/system-contracts.git",
+  "repository": "git@github.com:tidalchain/system-contracts.git",
   "license": "MIT",
   "dependencies": {
     "@zkamoeba/hardhat-micro-deploy": "^0.6.5",

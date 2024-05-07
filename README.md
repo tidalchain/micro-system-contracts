@@ -30,7 +30,7 @@ used on msg.sender, when it calls other contracts.
 
 ## Building
 
-This repository is used as a submodule of the [micro](https://github.com/ZKAmoeba-Micro/micro).
+This repository is used as a submodule of the [micro](https://github.com/tidalchain/micro).
 
 Compile the solidity and yul contracts: `yarn build`
 
@@ -82,7 +82,7 @@ See [LICENSE-MIT](LICENSE-MIT) for details.
 ## Official Links
 
 - [Website](https://www.zkamoeba.com/)
-- [GitHub](https://github.com/ZKAmoeba-Micro)
+- [GitHub](https://github.com/tidalchain)
 - [Twitter](https://twitter.com/zkamoeba)
 
 ## Disclaimer

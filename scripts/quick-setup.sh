@@ -6,7 +6,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 rustup toolchain install nightly
 
 # install era-test-node
-cargo +nightly install --git https://github.com/ZKAmoeba-Micro/micro-test-node.git --locked --branch boojum-integration
+cargo +nightly install --git https://github.com/tidalchain/micro-test-node.git --locked --branch boojum-integration
 
 yarn
 yarn build
